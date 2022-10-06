@@ -1,0 +1,12 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "npm_demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mycow": "cowsay -r \"I love Choco!\" "
+  },
+  "author": "",
+  "license": "ISC"
+}
